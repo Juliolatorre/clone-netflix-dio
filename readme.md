@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido utilizando apenas:
 
 ## 📝 Licença
 
-Esse projeto está sob a [Licença](https://github.com/Juliolatorre/snake_game_dio/blob/master/LICENSE) MIT. :closed_lock_with_key:
+Esse projeto está sob a [Licença](https://github.com/Juliolatorre/clone-netflix-dio) MIT. :closed_lock_with_key:
 
 ---
 
