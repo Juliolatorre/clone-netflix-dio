@@ -16,7 +16,7 @@
 
  **Recriando a Interface do Netflix**  é um projeto que visa recriar a interface do Netflix.
 
-Neste pequeno projeto que foi desenvolvido durante o Bootcamp no curso de HTML Web Developer da **[Digital Innovation One](https://web.digitalinnovation.one/)**. Nele o desafio é recriar a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
+Neste pequeno projeto que foi desenvolvido durante o Bootcamp no curso de HTML Web Developer da **[Digital Innovation One](https://web.digitalinnovation.one/)**. Temos o desafio de recriar a interface da Netflix utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 
 ---
 
